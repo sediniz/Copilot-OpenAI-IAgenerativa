@@ -30,5 +30,6 @@ Existem desafios éticos importantes relacionados à autoria, direitos autorais 
 
 <h3>imagens do processo de criação de uma imagem</h3>
 <div class="img">
-  <img src = ""
+  <img src = "https://github.com/sediniz/Copilot-OpenAI-IAgenerativa/issues/1#issue-2972844099"
     width = "700px">
+</div>
