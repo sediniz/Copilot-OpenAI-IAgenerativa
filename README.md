@@ -29,3 +29,6 @@ Existem desafios éticos importantes relacionados à autoria, direitos autorais 
 <p>do caminho para novas formas de interação entre humanos e máquinas, através da linguagem natural, da geração visual e da compreensão do áudio.</p>
 
 <h3>imagens do processo de criação de uma imagem</h3>
+<div class="img">
+  <img src = ""
+    width = "700px">
