@@ -34,6 +34,7 @@ Existem desafios éticos importantes relacionados à autoria, direitos autorais 
     width = "700px">
 </div>
 <div class="img2">
-  <img src = ""
+  <img src = "https://github.com/user-attachments/assets/009fdd58-0e1e-455e-a92c-5cf1fc6c2e2d"
     width = "700px">
 </div>
+<p>o processo de criação de imagem é simples e não precisa de tanta descrição</p>
