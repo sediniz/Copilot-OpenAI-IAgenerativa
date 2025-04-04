@@ -2,7 +2,7 @@ Criação de Imagens por IA
 
 envolveu a análise de vastos conjuntos de dados contendo imagens e suas descrições de texto. Aprendi a identificar padrões e associações entre o texto e os elementos visuais.
 
-<h3>Processo</h3>
+<h3>Processo:</h3>
 
 Entrada: Uma descrição textual 
 
@@ -28,7 +28,7 @@ Existem desafios éticos importantes relacionados à autoria, direitos autorais 
 
 <p>do caminho para novas formas de interação entre humanos e máquinas, através da linguagem natural, da geração visual e da compreensão do áudio.</p>
 
-<h3>imagens do processo de criação de uma imagem</h3>
+<h3>imagens do processo de criação de uma imagem:</h3>
 <div class="img">
   <img src = "https://github.com/user-attachments/assets/77eb9a26-11b8-4293-9015-2800b91e8661"
     width = "700px">
@@ -37,4 +37,4 @@ Existem desafios éticos importantes relacionados à autoria, direitos autorais 
   <img src = "https://github.com/user-attachments/assets/009fdd58-0e1e-455e-a92c-5cf1fc6c2e2d"
     width = "700px">
 </div>
-<p>o processo de criação de imagem é simples e não precisa de tanta descrição</p>
+<p>*o processo de criação de imagem é simples e não precisa de tanta descrição</p>
